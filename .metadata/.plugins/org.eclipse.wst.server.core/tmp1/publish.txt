@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Nov 01 15:26:03 KST 2022
+org.eclipse.jst.jee.server\:test=C\:\\Apache\\apache-tomcat-9.0.68\\wtpwebapps\\test
+org.eclipse.jst.jee.server\:abc=C\:\\Apache\\apache-tomcat-9.0.68\\wtpwebapps\\abc
